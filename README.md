@@ -7,4 +7,6 @@ Ramda 主要特性如下：
 
     函数参数的排列顺序更便于柯里化。要操作的数据通常在最后面。
 
-https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
+教程https://adispring.coding.me/2017/06/09/Thinking-in-Ramda-%E5%85%A5%E9%97%A8/
+
+官网http://ramda.cn/
